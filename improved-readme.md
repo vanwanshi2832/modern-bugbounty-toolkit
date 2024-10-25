@@ -100,5 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this toolkit helpful, please star the repository!
 
 ## 📞 Contact
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Discord: [Join our community](https://discord.gg/yourdiscord)
+- Twitter: [https://x.com/iamakash_19))
+- Discord: [Join our community](https://discord.gg/dVYwtQpR))
