@@ -134,7 +134,7 @@ git clone https://github.com/swisskyrepo/SSRFmap.git
 3. Documentation → Reporting → Follow-up
 
 ## 🤝 Contributing
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read our [contributing guidelines](https://github.com/vanwanshi2832/modern-bugbounty-toolkit/blob/main/contributing-guidelines.md) 
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vanwanshi2832/modern-bugbounty-toolkit/blob/main/license-file.md) file for details.
